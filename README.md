@@ -1,4 +1,4 @@
-# Python 3 parte 2: Avançando na linguagem
+# Python 3
 
 Esse projeto foi realizado acompanhando o curso de Pyhton 3 da Alura com o objetivo de consolidar os seguintes conhecimentos:
   - Instalar e configurar PyCharm;
